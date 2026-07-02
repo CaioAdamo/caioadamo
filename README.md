@@ -1,7 +1,7 @@
 ## 👋 Olá, sou o Caio! 
 
 - 🔭 Estou em busca de um estágio.
-- 🌱 Possuo conhecimentos em C | C++ | Phyton | JavaScript | Java | Kotlin | HTML | CSS | SQL.
+- 🌱 Possuo conhecimentos em desenvolvimento Full-Stack Web/Mobile!
 
 <div style="display: inline_block">
   <h3>Languages</h3>
